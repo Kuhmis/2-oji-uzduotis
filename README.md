@@ -1,3 +1,4 @@
+Gustas Šapkus
 # 2-oji uzduotis
 v0.1
 1. Leidzia ivesti studentu vardus, pavardes ir rezultatus
